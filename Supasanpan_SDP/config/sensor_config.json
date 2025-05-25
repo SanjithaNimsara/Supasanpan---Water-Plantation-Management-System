@@ -1,0 +1,21 @@
+{
+  "intervals": {
+    "ph": 300,
+    "tds": 300,
+    "water_level": 600
+  },
+  "thresholds": {
+    "ph": {
+      "min": 6.5,
+      "max": 7.5
+    },
+    "tds": {
+      "min": 100,
+      "max": 500
+    },
+    "water_level": {
+      "min": 20,
+      "max": 100
+    }
+  }
+} 
