@@ -108,6 +108,3 @@ water-plantation-dashboard/
 - GET /api/invoices
 - POST /api/invoices
 
-## License
-
-MIT 
